@@ -1,4 +1,4 @@
-# TBUPT (Toggle Backend Unattended Programming Test)
+# TBUPT
 
 TBUPT is an implementation of a REST API to simulate a deck of cards
 
